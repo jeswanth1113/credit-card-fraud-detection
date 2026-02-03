@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Using Predictive Models
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on building and evaluating machine learning models to detect fraudulent credit card transactions. Fraud detection is a classic **imbalanced classification problem**, where fraudulent cases represent a very small fraction of total transactions. The goal is to maximize fraud detection while minimizing false positives that can inconvenience legitimate customers.
 
@@ -8,7 +8,7 @@ The project demonstrates an end-to-end **applied machine learning workflow**, in
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Identify fraudulent credit card transactions using predictive modeling
 * Handle severe class imbalance effectively
@@ -17,7 +17,7 @@ The project demonstrates an end-to-end **applied machine learning workflow**, in
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 The following models were trained and evaluated:
 
@@ -30,7 +30,7 @@ Each model was assessed using metrics suitable for imbalanced data rather than a
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Given the imbalance in the dataset, the following metrics were emphasized:
 
@@ -44,7 +44,7 @@ Special focus was placed on **Recall**, as missing fraudulent transactions is ty
 
 ---
 
-## ⚙️ Techniques Used
+## Techniques Used
 
 * Data cleaning and preprocessing
 * Feature scaling
@@ -54,7 +54,7 @@ Special focus was placed on **Recall**, as missing fraudulent transactions is ty
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Jupyter Notebook
@@ -62,37 +62,7 @@ Special focus was placed on **Recall**, as missing fraudulent transactions is ty
 * Scikit-learn
 * Matplotlib / Seaborn
 
----
-
-## 📁 Project Structure
-
 ```
-credit-card-fraud-detection/
-│
-├── credit-card-fraud-detection-predictive-models.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebook:
-
-   ```bash
-   jupyter notebook credit-card-fraud-detection-predictive-models.ipynb
-   ```
 
 ---
 
@@ -101,24 +71,6 @@ credit-card-fraud-detection/
 * Tree-based ensemble models significantly outperform linear models on fraud detection tasks
 * Proper handling of class imbalance is critical for meaningful results
 * Accuracy alone is misleading in highly imbalanced datasets
-
----
-
-## 🔮 Future Improvements
-
-* Hyperparameter tuning using GridSearchCV or Bayesian optimization
-* Cost-sensitive learning to align with real-world fraud costs
-* Model explainability using SHAP or LIME
-* Deployment as an API for real-time fraud scoring
-
----
-
-## 👤 Author
-
-**Jeswanth Kamal Shekar**
-Data Analyst / Data Engineer
-
----
 
 ## 📄 License
 
