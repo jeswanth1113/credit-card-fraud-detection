@@ -62,7 +62,7 @@ Special focus was placed on **Recall**, as missing fraudulent transactions is ty
 * Scikit-learn
 * Matplotlib / Seaborn
 
-```
+---
 
 ##  Key Insights
 
