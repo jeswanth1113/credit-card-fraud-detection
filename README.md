@@ -17,6 +17,11 @@ The project demonstrates an end-to-end **applied machine learning workflow**, in
 
 ---
 
+## Data
+Download `creditcard.csv` from Kaggle and place it inside `/data`.
+
+---
+
 ## Models Implemented
 
 The following models were trained and evaluated:
