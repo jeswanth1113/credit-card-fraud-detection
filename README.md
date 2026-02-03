@@ -18,7 +18,9 @@ The project demonstrates an end-to-end **applied machine learning workflow**, in
 ---
 
 ## Data
-Download `creditcard.csv` from Kaggle and place it inside `/data`.
+The dataset used in this project is the **Credit Card Fraud Detection Dataset** from Kaggle.
+
+🔗 Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
