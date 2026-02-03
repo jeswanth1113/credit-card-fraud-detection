@@ -64,15 +64,13 @@ Special focus was placed on **Recall**, as missing fraudulent transactions is ty
 
 ```
 
----
-
-## 📈 Key Insights
+##  Key Insights
 
 * Tree-based ensemble models significantly outperform linear models on fraud detection tasks
 * Proper handling of class imbalance is critical for meaningful results
 * Accuracy alone is misleading in highly imbalanced datasets
 
-## 📄 License
+## License
 
 This project is for educational and portfolio purposes.
 
